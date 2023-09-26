@@ -1,4 +1,4 @@
 # 抖音接口逆向开源
-[TOC]
+[toc]
 ## openid转sec_id
 
